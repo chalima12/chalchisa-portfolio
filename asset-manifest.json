@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chalchisa-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/chalchisa-portfolio/static/js/main.0df3a27c.js",
+    "static/js/453.acca0757.chunk.js": "/chalchisa-portfolio/static/js/453.acca0757.chunk.js",
+    "index.html": "/chalchisa-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/chalchisa-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.0df3a27c.js.map": "/chalchisa-portfolio/static/js/main.0df3a27c.js.map",
+    "453.acca0757.chunk.js.map": "/chalchisa-portfolio/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0df3a27c.js"
+  ]
+}
